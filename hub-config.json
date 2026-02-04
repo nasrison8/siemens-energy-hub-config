@@ -5,7 +5,7 @@
     {
       "id": "sap-fsm",
       "name": "SAP Field Service Management",
-      "description": "Used by service engineers to book working hours and materials for service orders and report performed work.",
+      "description": "Test Used by service engineers to book working hours and materials for service orders and report performed work.",
       "type": "app",
       "deeplinkUrl": "",
       "iosStoreUrl": "https://apps.apple.com/be/app/sap-field-service-management/id1435808277?l=nl",
