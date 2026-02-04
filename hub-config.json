@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "updatedAt": "2026-02-05T00:00:00Z",
+  "items": [
+    {
+      "id": "sap-fsm",
+      "name": "SAP Field Service Management",
+      "description": "Used by service engineers to book working hours and materials for service orders and report performed work.",
+      "type": "app",
+      "deeplinkUrl": "",
+      "iosStoreUrl": "https://apps.apple.com/be/app/sap-field-service-management/id1435808277?l=nl",
+      "androidStoreUrl": "PASTE_SAP_PLAYSTORE_LINK_HERE"
+    },
+    {
+      "id": "fluix",
+      "name": "Fluix",
+      "description": "Used to access and complete service checklists and digital forms. Engineers use Fluix to view, fill in and submit required service documentation in the field.",
+      "type": "app",
+      "deeplinkUrl": "pdfexfile://",
+      "iosStoreUrl": "https://apps.apple.com/app/id893992075",
+      "androidStoreUrl": "PASTE_FLUIX_PLAYSTORE_LINK_HERE"
+    },
+    {
+      "id": "axxerion",
+      "name": "Axxerion",
+      "description": "Used to review and accept required work permits before starting service activities on site. Permits must be accepted prior to executing work.",
+      "type": "web",
+      "websiteUrl": "https://siemensnl.axxerion.com/axxerion/signin"
+    }
+  ]
+}
